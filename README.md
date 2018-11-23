@@ -1,1 +1,1 @@
-# BattleBaseUSA.github.io
+# BattleBaseUSA Static Website
